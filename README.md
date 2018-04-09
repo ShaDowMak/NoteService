@@ -18,4 +18,4 @@ npm run
 ```
 
 The app will start at the 8080 `PORT` by default.
-The app is working with MongoDB on 27017 `PORT`
+The app is working with MongoDB on 27017 `PORT`.
