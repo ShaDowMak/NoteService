@@ -4,8 +4,7 @@
   "description": "note REST service",
   "main": "server.js",
   "scripts": {
-    "run": "node server.js",
-    "test": "mocha"
+    "run": "node server.js"
   },
   "author": "Nikita Maksimov",
   "license": "ISC",
